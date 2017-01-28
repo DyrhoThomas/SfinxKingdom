@@ -1,0 +1,8 @@
+name: SfinxKingdom
+main: nl.dyrhodevelopment.SfinxKingdom.Main
+version: 1.0
+author: [DyrhoDevelopment, ThomasKuijs]
+
+commands:
+  k:
+    description: /k help voor meer info!

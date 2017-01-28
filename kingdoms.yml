@@ -1,0 +1,12 @@
+kingdoms:
+  '1':
+    name:
+    owner: UUID
+    lords:
+    - UUID1
+    - UUID1
+    members:
+    - UUID1
+    - UUID1
+    prefix: PREFIX
+    
